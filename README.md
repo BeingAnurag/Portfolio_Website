@@ -2,6 +2,14 @@
 
 A modern, high-performance portfolio website built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**. Features smooth animations, responsive design, and optimized for deployment on Vercel.
 
+# Images
+<img width="1772" height="852" alt="image" src="https://github.com/user-attachments/assets/bb6bbb07-7344-430b-9b79-2754e1f685b8" />
+<img width="1778" height="829" alt="image" src="https://github.com/user-attachments/assets/2006b361-904c-4630-b95b-26f32d3cd1bc" />
+<img width="1771" height="813" alt="image" src="https://github.com/user-attachments/assets/143a974c-d04a-415f-8b7b-90d3b9f875bb" />
+<img width="1546" height="658" alt="image" src="https://github.com/user-attachments/assets/eeee50c0-7cc6-4439-9c49-b1ee5b8589c6" />
+<img width="1170" height="811" alt="image" src="https://github.com/user-attachments/assets/de0e1294-76e9-429a-8638-59cef78ff2bd" />
+
+
 ## ✨ Features
 
 - **Modern React Architecture** - Functional components with hooks
